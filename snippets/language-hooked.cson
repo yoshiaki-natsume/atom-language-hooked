@@ -1,0 +1,7 @@
+'.source.hooked':
+  'title':
+    'prefix': 'title'
+    'body': '$1/$2 $3'
+  'scene':
+    'prefix': 'scene'
+    'body': 'scene: $1\nsetup: $2\nconfront: $3\nresolve: $4'

@@ -1,0 +1,11 @@
+'scopeName': 'source.hooked'
+'fileTypes': [
+  'hooked'
+]
+'name': 'Hooked'
+'patterns': [
+  {
+    'match': '(scene:|setup:|confront:|resolve:)'
+    'name': 'keyword.hooked'
+  }
+]
